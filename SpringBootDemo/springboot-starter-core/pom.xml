@@ -21,7 +21,7 @@
         <commons.beanutils.version>1.9.3</commons.beanutils.version>
         <commons.codec.version>1.10</commons.codec.version>
         <commons.lang3.version>3.6</commons.lang3.version>
-        <guava.version>25.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <jackson-core.version>2.9.8</jackson-core.version>
         <jackson-annotations.version>2.9.0</jackson-annotations.version>
         <jackson-databind.version>2.9.8</jackson-databind.version>
